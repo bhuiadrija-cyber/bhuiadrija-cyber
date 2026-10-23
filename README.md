@@ -112,7 +112,7 @@ I believe practical implementation is one of the best ways to deepen
 theoretical understanding, and I'm excited to keep learning by building.
 
 <div align="center">
-### Thanks for visiting! 🌱
+Thanks for visiting! 🌱
 
 **Keep learning. Keep building. Keep improving.**
 </div>
