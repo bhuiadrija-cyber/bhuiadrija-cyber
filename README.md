@@ -1,4 +1,4 @@
-::: {align="center"}
+
 # Hi, I'm an AI/ML Enthusiast 👋
 
 ### Learning, experimenting, and turning theory into practical solutions.
@@ -30,46 +30,6 @@ Learning](https://img.shields.io/badge/Machine_Learning-Exploring-00A98F?style=f
     improve through hands-on practice.
 -   🎯 My goal: **Learn → Build → Test → Improve**.
 
-## 🛠️ Skills & Technologies
-
-### Languages
-
-```{=html}
-<p>
-```
-`<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>`{=html}
-`<img src="https://img.shields.io/badge/C- A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C"/>`{=html}
-`<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>`{=html}
-```{=html}
-</p>
-```
-### AI / ML & Data Libraries
-
-```{=html}
-<p>
-```
-`<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>`{=html}
-`<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>`{=html}
-`<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>`{=html}
-`<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" alt="Seaborn"/>`{=html}
-`<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>`{=html}
-```{=html}
-</p>
-```
-### Tools & Core Concepts
-
-```{=html}
-<p>
-```
-`<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>`{=html}
-`<img src="https://img.shields.io/badge/Data_Structures-Being_Learned-0A66C2?style=flat-square" alt="Data Structures"/>`{=html}
-`<img src="https://img.shields.io/badge/Model_Training-Exploring-00A98F?style=flat-square" alt="Model Training"/>`{=html}
-```{=html}
-</p>
-```
-> I'm continuously developing these skills through coursework, practice,
-> experiments, and projects. The badges reflect my current learning
-> areas---not a claim of expert-level proficiency.
 
 ## 🔭 What I'm Exploring
 
@@ -105,17 +65,6 @@ are ready.*
 I believe practical implementation is one of the best ways to deepen
 theoretical understanding, and I'm excited to keep learning by building.
 
-## 🤝 Let's Connect
-
-I'm happy to connect with fellow learners, AI/ML enthusiasts, and
-developers interested in hackathons, collaborative projects, and
-exchanging ideas.
-
--   **GitHub:**
-    [@YOUR-GITHUB-USERNAME](https://github.com/YOUR-GITHUB-USERNAME)
--   **LinkedIn:** [Add your LinkedIn profile](https://www.linkedin.com/)
-
-::: {align="center"}
 ### Thanks for visiting! 🌱
 
 **Keep learning. Keep building. Keep improving.**
