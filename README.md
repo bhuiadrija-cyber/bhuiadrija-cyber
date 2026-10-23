@@ -72,9 +72,9 @@ Learning](https://img.shields.io/badge/Machine_Learning-Exploring-00A98F?style=f
 <img src="https://img.shields.io/badge/Model_Training-Exploring-00A98F?style=flat-square" alt="Model Training"/>
 
 </p>
-```
-> I'm continuously developing these skills through coursework, practice,
-> experiments, and projects. The badges reflect my current learning
+
+> I'm continuously developing these skills through coursework, practice,experiments, and projects.
+> The badges reflect my current learning
 > areas---not a claim of expert-level proficiency.
 
 ## 🔭 What I'm Exploring
