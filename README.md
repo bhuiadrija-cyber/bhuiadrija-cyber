@@ -117,8 +117,7 @@ theoretical understanding, and I'm excited to keep learning by building.
   <img src="https://github-readme-stats.vercel.app/api?username=bhuiadrija-cyber&show_icons=true&theme=dark" alt="Adrija's GitHub Stats" width="48%" />
 <img src="https://streak-stats.demolab.com?user=bhuiadrija-cyber&theme=dark" width="48%" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhuiadrija-cyber&theme=github-compact" width="100%" />
-<img src="https://github-profile-trophy.vercel.app/?username=bhuiadrija-cyber&theme=darkhub&no-frame=true&row=1" width="100%" />
-<img src="https://komarev.com/ghpvc/?username=bhuiadrija-cyber&style=for-the-badge&color=blue" />
+
 </p>
 
 <div align="center">
